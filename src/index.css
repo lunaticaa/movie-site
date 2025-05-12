@@ -32,3 +32,12 @@ h2 {
   border-radius: 10px;
   min-height: 100px;
 }
+
+button {
+  border: none;
+  font-size: 30px;
+  background-color: transparent;
+  text-align: right;
+  width: 100%;
+  cursor: pointer;
+}
